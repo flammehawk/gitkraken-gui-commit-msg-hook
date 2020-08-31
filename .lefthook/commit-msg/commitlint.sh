@@ -1,0 +1,3 @@
+COMMIT_MSG_FILE=$1
+echo "test $COMMIT_MSG_FILE"
+exit 1
